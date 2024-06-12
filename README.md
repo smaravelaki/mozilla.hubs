@@ -3,6 +3,7 @@
 Χρονολογία: 2022
 Υπερσύνδεσμος πρόσβασης του OER:
 https://hubs.mozilla.com/7cLn4RS/loving-miniature-outing 
+
 https://eclass11.sch.gr/courses/4403010265/
 Σκοπός/πλαίσιο δημιουργίας του OER: πόρος που αναπτύχθηκε στο πλαίσιο της εφαρμογής στην τάξη της δράσης Europeana Bauhaus – Built with Bits project 
 Γνωστικό/ά Αντικείμενο/α : Αγγλικά
